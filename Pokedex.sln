@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.WebApp", "Pokedex.WebApp\Pokedex.WebApp.csproj", "{F68AF490-A25B-4B48-BBDA-1BA690471296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Models", "Pokedex.Models\Pokedex.Models.csproj", "{4CF61E88-BC32-4F95-8DE1-7650A6B753DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Data", "Pokedex.Data\Pokedex.Data.csproj", "{87649F5E-EC74-4008-B48E-095F2F67EF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pokedex.Services", "Pokedex.Services\Pokedex.Services.csproj", "{E89BDE5C-ABEC-43DA-9D14-ED1AF5165BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F68AF490-A25B-4B48-BBDA-1BA690471296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68AF490-A25B-4B48-BBDA-1BA690471296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68AF490-A25B-4B48-BBDA-1BA690471296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68AF490-A25B-4B48-BBDA-1BA690471296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF61E88-BC32-4F95-8DE1-7650A6B753DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF61E88-BC32-4F95-8DE1-7650A6B753DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF61E88-BC32-4F95-8DE1-7650A6B753DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF61E88-BC32-4F95-8DE1-7650A6B753DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87649F5E-EC74-4008-B48E-095F2F67EF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87649F5E-EC74-4008-B48E-095F2F67EF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87649F5E-EC74-4008-B48E-095F2F67EF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87649F5E-EC74-4008-B48E-095F2F67EF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E89BDE5C-ABEC-43DA-9D14-ED1AF5165BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E89BDE5C-ABEC-43DA-9D14-ED1AF5165BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E89BDE5C-ABEC-43DA-9D14-ED1AF5165BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E89BDE5C-ABEC-43DA-9D14-ED1AF5165BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
